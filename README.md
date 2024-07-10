@@ -8,6 +8,7 @@ Cardiff University - Mathematics BSc
 
 ## Modules:
 ### First Year
+*90.2% Average Mark*
 ```
 - Elementary Differential Equations:	89%
 - Computing for Mathematics: 		98%
@@ -20,14 +21,15 @@ Cardiff University - Mathematics BSc
 - Statistical Inference: 	  	99%
 ```
 ### Second Year
-#### *Currently Undertaking*
+*Currently Undertaking*
+```
 - Linear Algebra II
 - Calculus of Severable Variables
 - Algebra I: Groups
 - Numerical Analysis
 - Foundations of Probability & Statistics
+```
 
-
-Extra Curriculars:
+####Extra Curriculars:
 Cardiff University Mathematics Code Club \
 Cardiff University Go Society
