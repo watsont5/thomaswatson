@@ -8,16 +8,17 @@ Cardiff University - Mathematics BSc
 
 ## Modules:
 ### First Year
-- Elementary Differential Equations:	<div align="right">89%
-- Computing for Mathematics: 			<div align="right">98%
-- Geometry: 							<div align="right">87%
-- Foundations of Mathematics I:			<div align="right">83%
-- Foundations of Mathematics II: 		<div align="right">89%
-- Linear Algebra I: 		 			<div align="right">92%
-- Classical Mechanics: 					<div align="right">100%
-- Introduction to Probability Theory:	<div align="right">75%
-- Statistical Inference: 	  			<div align="right">99%
-
+```
+- Elementary Differential Equations:	89%
+- Computing for Mathematics: 			98%
+- Geometry: 							87%
+- Foundations of Mathematics I:			83%
+- Foundations of Mathematics II: 		89%
+- Linear Algebra I: 		 			92%
+- Classical Mechanics: 					100%
+- Introduction to Probability Theory:	75%
+- Statistical Inference: 	  			99%
+```
 ### Second Year
 #### *Currently Undertaking*
 - Linear Algebra II
