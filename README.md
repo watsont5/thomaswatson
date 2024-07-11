@@ -1,4 +1,4 @@
-Second year mathematics student interested in pure mathematics, theoretical computer science and their intersections.
+Current student at Cardiff University studying a second undergaduate degree in mathematics. Interested in pure mathematics, theoretical computer science and their intersections.
 
 # Education:
 ```
