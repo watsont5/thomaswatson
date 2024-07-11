@@ -1,4 +1,4 @@
-This is my first read me that I am pushing to my personal repo. Learning github.
+Second year mathematics student interested in pure matheamtics, theoretical computer science and their intersections.
 
 # Education:
 
