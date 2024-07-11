@@ -5,6 +5,9 @@ Second year mathematics student interested in pure mathematics, theoretical comp
 Mathematics BSc - Cardiff University	(2023 - 2026)
 ```
 
+# Relevant Projects:
+Computing for Mathematics: Geometreg, a python library for investigating lattice geometry and combinatorial geometry.
+
 ## Modules:
 ### First Year
 *90.2% Average Mark*
@@ -38,5 +41,7 @@ Second Semester:
 ```
 
 #### Extra Curriculars:
-Cardiff University Mathematics Code Club \
+```
+Cardiff University Mathematics Code Club
 Cardiff University Go Society
+```
