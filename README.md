@@ -1,10 +1,9 @@
-Second year mathematics student interested in pure matheamtics, theoretical computer science and their intersections.
+Second year mathematics student interested in pure mathematics, theoretical computer science and their intersections.
 
 # Education:
-
-Cardiff University - Mathematics BSc
-2023 - 2026
-
+```
+Mathematics BSc - Cardiff University	(2023 - 2026)
+```
 
 ## Modules:
 ### First Year
