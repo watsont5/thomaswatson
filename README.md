@@ -23,13 +23,21 @@ Cardiff University - Mathematics BSc
 ### Second Year
 *Currently Undertaking*
 ```
+First Semester:
 - Linear Algebra II
 - Calculus of Severable Variables
 - Algebra I: Groups
 - Numerical Analysis
 - Foundations of Probability & Statistics
+
+Second Semester:
+- Real Analysis
+- Complex Analysis
+- Introduction to Number Theory I
+- Series & Transform
+- Vector Calculus
 ```
 
-####Extra Curriculars:
+#### Extra Curriculars:
 Cardiff University Mathematics Code Club \
 Cardiff University Go Society
