@@ -5,8 +5,13 @@ Current student at Cardiff University studying a second undergaduate degree in m
 Mathematics BSc - Cardiff University	(2023 - 2026)
 ```
 
-# Relevant Projects:
-Computing for Mathematics: Geometreg, a python library for investigating lattice geometry and combinatorial geometry.
+# Relevant Projects/Achievements:
+```
+- Computing for Mathematics: Geometreg, a python library for investigating lattice geometry and combinatorial geometry.
+
+- First place in the Year One integration bee.
+
+```
 
 ## Modules:
 ### First Year
