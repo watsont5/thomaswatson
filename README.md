@@ -3,6 +3,7 @@ Current student at Cardiff University studying a second undergaduate degree in m
 # Education:
 ```
 Mathematics BSc - Cardiff University	(2023 - 2026)
+Enviornmental Science BSc - Southampton University (2020 - 2023)
 ```
 
 # Relevant Projects/Achievements:
