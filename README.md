@@ -19,29 +19,32 @@ Environmental Science BSc - University of Southampton (2020 - 2023):	First Class
 
 ## Modules:
 ### First Year
-*90.2% Average Mark*
+*90.2% Weighted Average Mark*
 ```
-- Elementary Differential Equations:	89%
-- Computing for Mathematics: 		98%
-- Geometry: 				87%
-- Foundations of Mathematics I:		83%
-- Foundations of Mathematics II: 	89%
-- Linear Algebra I: 		 	92%
-- Classical Mechanics: 			100%
-- Introduction to Probability Theory:	75%
-- Statistical Inference: 	  	99%
+- Elementary Differential Equations:		89%
+- Computing for Mathematics: 				98%
+- Geometry: 								87%
+- Foundations of Mathematics I:				83%
+- Foundations of Mathematics II: 			89%
+- Linear Algebra I: 		 				92%
+- Classical Mechanics: 						100%
+- Introduction to Probability Theory:		75%
+- Statistical Inference: 	  				99%
 ```
 ### Second Year
 *Awaiting Marks*
 ```
 First Semester:
-- Linear Algebra II:			Went well
-- Calculus of Severable Variables:		Went very badly
-- Algebra I: Groups				Went great
-- Numerical Analysis:			Went decently
+- Linear Algebra II:				Went well
+- Calculus of Severable Variables:		 Went very badly
+- Algebra I: Groups						 Went great
+- Numerical Analysis:					 Went decently
 - Foundations of Probability & Statistics:	Went poorly
 
+```
+
 *Currently Undertaking*
+```
 Second Semester:
 - Real Analysis
 - Complex Analysis
